@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "NSManagedObjectsFiles">
+      <FileRef
+         location = "group:To Do List/Task+CoreDataProperties.h">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/Task+CoreDataProperties.m">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/Task.h">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/Task.m">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/List+CoreDataProperties.h">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/List+CoreDataProperties.m">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/List.h">
+      </FileRef>
+      <FileRef
+         location = "group:To Do List/List.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:To Do List.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

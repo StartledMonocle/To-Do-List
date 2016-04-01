@@ -1,0 +1,18 @@
+//
+//  To_Do_List_Prefix.pch
+//  To Do List
+//
+//  Created by Long Le on 3/31/16.
+//  Copyright © 2016 Le, Long. All rights reserved.
+//
+
+#ifndef To_Do_List_Prefix_pch
+#define To_Do_List_Prefix_pch
+
+#define MR_SHORTHAND
+#import <MagicalRecord/MagicalRecord.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* To_Do_List_Prefix_pch */
